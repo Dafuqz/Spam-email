@@ -1,0 +1,10 @@
+(MDP)
+	gridworld_h-10_w-10
+(Agents)
+	qlearner-uniform
+	qlearner-softmax
+	random
+(Params)
+	num_instances : 1
+	num_episodes : 500
+	num_steps : 100

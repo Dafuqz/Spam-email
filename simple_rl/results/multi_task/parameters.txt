@@ -1,0 +1,9 @@
+(MDP)
+	multi_task
+(Agents)
+	rmax-h4
+	qlearner
+	random
+(Params)
+	instances : 25
+	steps : 20

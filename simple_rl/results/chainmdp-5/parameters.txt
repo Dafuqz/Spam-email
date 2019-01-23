@@ -1,0 +1,9 @@
+(MDP)
+	chainmdp-5
+(Agents)
+	qlearner
+	random
+(Params)
+	instances : 20
+	episodes : 1
+	steps : 500

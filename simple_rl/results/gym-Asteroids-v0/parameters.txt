@@ -1,0 +1,10 @@
+(MDP)
+	gym-Asteroids-v0
+(Agents)
+	ql-linear
+	qlearner
+	random
+(Params)
+	instances : 3
+	episodes : 1
+	steps : 50

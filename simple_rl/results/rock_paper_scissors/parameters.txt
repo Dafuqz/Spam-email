@@ -1,0 +1,7 @@
+(Markov Game MDP)
+	rock_paper_scissors
+(Agents)
+	random
+	qlearner
+(Params)
+	instances : 30

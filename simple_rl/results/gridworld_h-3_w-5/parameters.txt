@@ -1,0 +1,10 @@
+(MDP)
+	gridworld_h-3_w-5
+(Agents)
+	ql-linear
+	qlearner
+	random
+(Params)
+	instances : 20
+	episodes : 1
+	steps : 500

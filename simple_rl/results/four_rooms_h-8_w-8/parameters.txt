@@ -1,0 +1,9 @@
+(MDP)
+	four_rooms_h-8_w-8
+(Agents)
+	qlearner
+	random
+(Params)
+	instances : 5
+	episodes : 1
+	steps : 100000
